@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/bhupendrabhudia
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.bhudia.xyz
+  * I am bhupendrabhudia (https://keybase.io/bhupendrabhudia) on keybase.
+  * I have a public key with fingerprint 8375 CE94 EC1B AEE7 0FA2  51C0 2038 FFF2 6485 773A
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010102576204a6e7297a87eb7c070102b8ff89f7eb465e65c205b32fdbf51d15d8e50a",
+      "fingerprint": "8375ce94ec1baee70fa251c02038fff26485773a",
+      "host": "keybase.io",
+      "key_id": "2038fff26485773a",
+      "kid": "010102576204a6e7297a87eb7c070102b8ff89f7eb465e65c205b32fdbf51d15d8e50a",
+      "uid": "836a512810a9c3cdb2804eef005fb019",
+      "username": "bhupendrabhudia"
+    },
+    "service": {
+      "hostname": "www.bhudia.xyz",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1508867368,
+  "expire_in": 157680000,
+  "prev": "cf807e96f5e4f85d3f147f59f6ebe91e3961feb812697d4dafd18a6d6f0b50a2",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMIvAnicrZJrSFRBFMd320rb6CFiUvTiRm+zue+5W1GRFUH2sAdmxXbvnZn1tnnv
+eve6uxYSFBUUvSXIXipBZGlgZAllPkIwCQoSv0QE9qKXH6yoNGzuVt/62MyHmTnn
+f35zzuE8GOXz+L1X1z+6NSwtM83b2VJZ4tnSWzZrD6NZqJQJ7GHCOHngXQhHnWDY
+QEyAASzdnChLHBBUCcucIqtQxpqsA9n1aJAQqBBqESQRS6LOAVHjOYI0IrKIFRHE
+IlCZLIYYZgjbEdswHYqFvCzqWBGwzmoqxjIgKieyOuAAT4GEkwQoyjLvBhZaUTeC
+JqepUZxtWNRGH8Fkev/Q/+e8S5I4yEuqyHKQBaqi8zrSOAgEjAkAItEAq7jCKLZN
+tQhTtVZYEsEmslV6QYbKlGUx1BkzdOz21y3ojzAej2f/1mQnSndTSMS2HEu3dlFf
+oeNEAm6oUxpJarEW/EMJaoaJaD9pQAzbUcMymQBLlbpjuFhWBBBKMi/BLAYnIoaN
+g4aroN2AgC73GxyjSJ1AIGNFIiIWCBQRT1hBJqJCJKxhhcW8IrEEa5DlJEVGAlIJ
+YqEqIYkAjXaHY9y6ik2LsmWapxqizKgRMlWnxMZMWWvztqEer98zfNgQd9A8/hFj
+/46fMDVlMLq1d199/EBixRyzJXgmc8PBrvKKunv2y52h8Kf0258fb9rnr8m5kQoT
+Gb19/PalbVUhtLpx7X2+5jssfsP4LrAThRnpjW0zPg4ufBELzm//ucQ6/HXw+JjK
+heNb+5fxJzuEnjX+d7tPp7xuGPCcn5QP5lYPWd21IHTt+penzonojyn9VWnF6650
+7zhw6lDrorInRRvf9TZ5q8oLe9bfPdfnK+gQ8r43e970XUXv98fndV5qakjkTHg+
+fXNt+4ejI5lni0++Kl/50I7d8XEDF2/WvdXPdo+umFm/Ytzl2rzAkYL8Y6ULVvmK
+ln/ZmzHNWOL99vlYbkq8OpwzMDl3cero2f25eb8AU4pBZA==
+=H8xs
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/bhupendrabhudia
+
+==================================================================
+
