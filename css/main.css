@@ -472,7 +472,7 @@ hr {
 .intro {
   width: 100%;
   position: relative;
-  background: url('http://media.bhudia.xyz/img/header-bg2-orig.jpg') no-repeat top center;
+  background: url('//media.bhudia.xyz/img/header-bg2-orig.jpg') no-repeat top center;
 }
 
 #intro.intro {
@@ -526,7 +526,7 @@ hr {
 
 #about {
   padding-top: 70px;
-  background: url('http://media.bhudia.xyz/img/header-bg2.jpg') no-repeat fixed;
+  background: url('//media.bhudia.xyz/img/header-bg2.jpg') no-repeat fixed;
   background-size: cover;
   color: #fff;
 }
@@ -868,7 +868,7 @@ hr {
 
 #portfolio {
   padding-top: 70px;
-  background: url('http://media.bhudia.xyz/img/header-bg2.jpg') no-repeat fixed;
+  background: url('//media.bhudia.xyz/img/header-bg2.jpg') no-repeat fixed;
   background-size: cover;
   color: #fff;
 }
