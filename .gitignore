@@ -1,5 +1,16 @@
+# Node build artifacts
+node_modules
+npm-debug.log
+bower_components
+
+# Local development
+*.env
+*.dev
 .DS_Store
-.env
 .idea
 *.iml
-vendor/
+yarn.lock
+
+# Temp files
+*.swp
+
