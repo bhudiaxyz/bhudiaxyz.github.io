@@ -56,7 +56,7 @@
     });
     // add information window
     var infowindow = new google.maps.InfoWindow({
-      content: '<div class="info"><strong>Quedex Ltd</strong><br/>are here:<br/><br/>Aston House,<br/>Cornwall Avenue,<br/>London, N3 1LF<br/>UK</div>'
+      content: '<div class="info"><strong>Quedex Ltd</strong><br/>are here:<br/><br/>4th Floor, Radius House,<br/>51 Clarendon Road,<br/>Watford,<br/>Hertfordshire WD17 1HP<br/>UK</div>'
     });
 
     // add listener for a click on the pin
